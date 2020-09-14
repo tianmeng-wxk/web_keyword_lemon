@@ -1,0 +1,12 @@
+2020-09-14 18:06:04 test_cases.py DEBUG 操作描述：打开浏览器
+2020-09-14 18:06:07 test_cases.py DEBUG 操作描述：隐性等待10s
+2020-09-14 18:06:07 test_cases.py DEBUG 操作描述：打开登录页面
+2020-09-14 18:06:09 test_cases.py DEBUG 操作描述：输入用户名
+2020-09-14 18:06:09 test_cases.py DEBUG 操作描述：输入密码
+2020-09-14 18:06:14 test_cases.py DEBUG 操作描述：识别验证码
+2020-09-14 18:06:14 test_cases.py DEBUG 操作描述：输入验证码
+2020-09-14 18:06:14 test_cases.py DEBUG 操作描述：点击登录按钮
+2020-09-14 18:06:14 test_cases.py DEBUG 操作描述：强制等待5s
+2020-09-14 18:06:19 test_cases.py DEBUG 操作描述：None
+2020-09-14 18:06:19 key_word.py INFO 流程正确，断言成功！
+2020-09-14 18:06:19 test_cases.py DEBUG 操作描述：关闭浏览器

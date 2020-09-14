@@ -1,0 +1,3 @@
+2020-09-14 16:25:46 test_cases.py DEBUG 操作描述：识别验证码
+2020-09-14 16:25:52 test_cases.py DEBUG 操作描述：None
+2020-09-14 16:25:53 key_word.py INFO 流程正确，断言成功！
