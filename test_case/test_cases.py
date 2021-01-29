@@ -1,7 +1,7 @@
 import unittest,os,sys,time
 path = 'E:\script\web_keyword_lemon\test_case'
 sys.path.append(path)
-from key_word.key_word import *
+# from key_word.key_word import *
 from common.common import LoadExcel
 from openpyxl.styles import PatternFill,Font
 from log.log import Logger
