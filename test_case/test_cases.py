@@ -27,10 +27,13 @@ def test_login():
         if keyword1 == 'ivercode':
             func = keyword1+"()"
             func = eval(func)
+
             Logger().log().debug("操作描述：{}".format(operator_name1))
 
             # sheet.cell(row, 9).value = "pass"
+            Logger().log().debug("func值为：{}".format(func))
             excel.set_cell_value(rownum+1,operator_value,func)
+
 
         elif "assert" in keyword1:
             func = '{}("{}","{}","{}")'.format(keyword1, loc_type1, loc_ex1, expect1)
